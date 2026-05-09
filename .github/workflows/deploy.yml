@@ -36,4 +36,4 @@ jobs:
         run: aws s3 sync dist/ s3://pgmate-frontend-prod --delete
 
       - name: Invalidate CloudFront Cache
-        run: aws cloudfront create-invalidation --distribution-id E123456789ABC --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id E3DEW3Q135TWN0 --paths "/*"
