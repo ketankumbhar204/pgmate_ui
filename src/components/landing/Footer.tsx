@@ -5,7 +5,7 @@ const footerLinks = [
   {
     title: 'Product',
     items: [
-      { label: 'Features', href: '#features' },
+      { label: 'Features', href: '#features' }, 
       { label: 'WhatsApp automation', href: '#whatsapp' },
       { label: 'Dashboard', href: '#dashboard' },
       { label: 'Pricing', href: '#pricing' },
