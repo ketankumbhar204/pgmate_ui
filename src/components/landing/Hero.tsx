@@ -165,7 +165,7 @@ export function Hero() {
               </div>
               <div>
                 <p className="text-[10px] font-medium text-slate-500">Meal poll</p>
-                <p className="text-xs font-semibold text-slate-900">666 new YES replies</p>
+                <p className="text-xs font-semibold text-slate-900">980 new YES replies</p>
               </div>
             </div>
           </motion.div>
