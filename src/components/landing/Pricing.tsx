@@ -7,7 +7,7 @@ import { Button } from '../ui/Button'
 const plans = [
   {
     name: 'Starter',
-    price: '₹999',
+    price: '₹499',
     period: '/month',
     blurb: 'Single property owners testing digital ops.',
     tenants: 'Up to 25 tenants',
