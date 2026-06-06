@@ -15,7 +15,7 @@ export function WhatsAppAutomation() {
         <SectionHeading
           eyebrow="WhatsApp-first"
           title="Your tenants already live on WhatsApp"
-          description="PGMate turns everyday chats into structured operations — polls, reminders, and tickets flow into your dashboard without changing how tenants reply."
+          description="Countin turns everyday chats into structured operations — polls, reminders, and tickets flow into your dashboard without changing how tenants reply."
         />
 
         <div className="mx-auto mt-14 grid max-w-5xl gap-8 lg:grid-cols-2 lg:items-center">
@@ -65,7 +65,7 @@ export function WhatsAppAutomation() {
                   </div>
                 </div>
                 <div>
-                  <p className="text-sm font-semibold text-slate-900">PGMate · Koregaon Park</p>
+                  <p className="text-sm font-semibold text-slate-900">Countin · Koregaon Park</p>
                   <p className="text-xs text-emerald-600">online</p>
                 </div>
               </div>

@@ -6,7 +6,7 @@ import { SectionHeading } from '../ui/SectionHeading'
 const testimonials = [
   {
     quote:
-      'We run a 40-bed PG near FC Road. Meal counts used to be pure guesswork — now WhatsApp replies land straight in PGMate and our cook knows exactly how much to prepare.',
+      'We run a 40-bed PG near FC Road. Meal counts used to be pure guesswork — now WhatsApp replies land straight in Countin and our cook knows exactly how much to prepare.',
     name: 'Anita Deshpande',
     role: 'Owner, Sai Krupa Ladies PG · Pune',
     rating: 5,
@@ -34,7 +34,7 @@ export function Testimonials() {
         <SectionHeading
           eyebrow="From Pune PGs"
           title="Owners who stopped juggling notebooks"
-          description="Early adopters across Pune are using PGMate to bring order to chaotic daily operations — without forcing tenants to install another app."
+          description="Early adopters across Pune are using Countin to bring order to chaotic daily operations — without forcing tenants to install another app."
         />
 
         <div className="mt-14 grid gap-6 lg:grid-cols-3">

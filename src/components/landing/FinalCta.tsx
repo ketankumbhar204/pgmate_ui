@@ -18,7 +18,7 @@ export function FinalCta() {
           <div className="pointer-events-none absolute -right-20 bottom-0 h-64 w-64 rounded-full bg-emerald-400/10 blur-3xl" />
 
           <div className="relative mx-auto max-w-2xl">
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-wa-400">PGMate</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-wa-400">Countin</p>
             <h2 className="mt-4 text-3xl font-bold tracking-tight text-white sm:text-4xl">
               Start managing your PG smarter
             </h2>

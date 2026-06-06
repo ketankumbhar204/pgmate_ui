@@ -18,7 +18,7 @@ function DashboardMock() {
           <span className="h-2.5 w-2.5 rounded-full bg-amber-400/90" />
           <span className="h-2.5 w-2.5 rounded-full bg-emerald-400/90" />
         </div>
-        <span className="ml-2 text-[10px] font-medium text-slate-400">dashboard.PGMate.in</span>
+        <span className="ml-2 text-[10px] font-medium text-slate-400">dashboard.countin.in</span>
       </div>
       <div className="grid gap-3 sm:grid-cols-[1fr_2fr]">
         <div className="hidden space-y-2 sm:block">
@@ -165,7 +165,7 @@ export function Hero() {
               </div>
               <div>
                 <p className="text-[10px] font-medium text-slate-500">Meal poll</p>
-                <p className="text-xs font-semibold text-slate-900">100 new YES replies</p>
+                <p className="text-xs font-semibold text-slate-900">200 new YES replies</p>
               </div>
             </div>
           </motion.div>

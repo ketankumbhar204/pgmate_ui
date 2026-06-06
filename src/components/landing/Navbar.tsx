@@ -23,12 +23,7 @@ export function Navbar() {
           <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-wa-500 to-wa-dark text-white shadow-md shadow-wa-500/30">
             <MessageCircle className="h-5 w-5" strokeWidth={2} aria-hidden />
           </span>
-          <span className="flex flex-col leading-tight">
-            <span className="text-base">PGMate</span>
-            <span className="text-[10px] font-medium uppercase tracking-wider text-slate-500">
-              PG Friend
-            </span>
-          </span>
+          <span className="text-base">Countin</span>
         </a>
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Primary">

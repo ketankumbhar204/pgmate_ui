@@ -56,7 +56,7 @@ export function TrustProblems() {
         <SectionHeading
           eyebrow="The daily grind"
           title="Problems every PG owner knows"
-          description="PGMate replaces scattered tools with one calm, WhatsApp-first system — so you run the PG, not the paperwork."
+          description="Countin replaces scattered tools with one calm, WhatsApp-first system — so you run the PG, not the paperwork."
         />
 
         <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

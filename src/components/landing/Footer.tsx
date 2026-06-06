@@ -16,7 +16,7 @@ const footerLinks = [
     items: [
       { label: 'About', href: '#hero' },
       { label: 'Careers', href: '#cta' },
-      { label: 'Contact', href: 'mailto:hello@PGMate.in' },
+      { label: 'Contact', href: 'mailto:hello@countin.in' },
       { label: 'Privacy', href: '#cta' },
     ],
   },
@@ -24,9 +24,9 @@ const footerLinks = [
 
 /** Brand icons were removed from lucide-react; generic icons + aria-labels keep links clear. */
 const social = [
-  { icon: Share2, href: 'https://twitter.com', label: 'PGMate on X (Twitter)' },
-  { icon: Building2, href: 'https://linkedin.com', label: 'PGMate on LinkedIn' },
-  { icon: PlayCircle, href: 'https://youtube.com', label: 'PGMate on YouTube' },
+  { icon: Share2, href: 'https://twitter.com', label: 'Countin on X (Twitter)' },
+  { icon: Building2, href: 'https://linkedin.com', label: 'Countin on LinkedIn' },
+  { icon: PlayCircle, href: 'https://youtube.com', label: 'Countin on YouTube' },
 ]
 
 export function Footer() {
@@ -39,12 +39,7 @@ export function Footer() {
               <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-wa-500 to-wa-dark text-white shadow-md shadow-wa-500/25">
                 <MessageCircle className="h-5 w-5" strokeWidth={2} aria-hidden />
               </span>
-              <span className="flex flex-col leading-tight">
-                <span>PGMate</span>
-                <span className="text-[10px] font-medium uppercase tracking-wider text-slate-500">
-                  PG Friend
-                </span>
-              </span>
+              <span>Countin</span>
             </a>
             <p className="mt-4 max-w-md text-sm leading-relaxed text-slate-600">
               WhatsApp-assisted operations for Indian PG owners, hostel managers, and small rental
@@ -90,14 +85,14 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col gap-4 border-t border-slate-100 pt-8 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-slate-500">
-            © {new Date().getFullYear()} PGMate (PG Friend). All rights reserved.
+            © {new Date().getFullYear()} Countin. All rights reserved.
           </p>
           <a
-            href="mailto:hello@PGMate.in"
+            href="mailto:hello@countin.in"
             className="inline-flex items-center gap-2 text-sm font-medium text-slate-700 hover:text-wa-700"
           >
             <Mail className="h-4 w-4" aria-hidden />
-            hello@PGMate.in
+            hello@countin.in
           </a>
         </div>
       </Container>

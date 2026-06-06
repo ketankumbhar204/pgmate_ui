@@ -70,7 +70,7 @@ export function Features() {
         <SectionHeading
           eyebrow="Product"
           title="Everything you need to run a tight ship"
-          description="From the first hello on WhatsApp to the last rupee reconciled — PGMate keeps owners, tenants, and staff aligned."
+          description="From the first hello on WhatsApp to the last rupee reconciled — Countin keeps owners, tenants, and staff aligned."
         />
 
         <div className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
